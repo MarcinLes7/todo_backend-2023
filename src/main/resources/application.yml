@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: malesnif
+    password: xxxx
+    url: jdbc:sqlserver://morfeusz.wszib.edu.pl:1433;databaseName=malesnif;encrypt=false;
+  jpa:
+    hibernate:
+      ddl-auto: update
